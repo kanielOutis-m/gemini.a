@@ -6,3 +6,5 @@ export default {
   },
   plugins: [],
 };
+
+// i am the edited project dude
